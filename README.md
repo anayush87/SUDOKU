@@ -1,6 +1,8 @@
 # SUDOKU
-make sure to install required modules:
+![sudoku_img](https://github.com/smolvamp/images/blob/main/Screenshot_20240718_005015.png?raw=true)
+  
+To install tkinter module:  
 
-
-                                             
-  $ pip install tkinter; pip install random
+```shell
+pip install tk
+```
